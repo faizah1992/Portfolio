@@ -1,1 +1,1 @@
-Link to my Portfolio https://faizah1992.github.io/Portfolio/
+Link to my portfolio https://faizah1992.github.io/Portfolio/
